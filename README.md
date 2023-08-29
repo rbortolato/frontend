@@ -1,5 +1,3 @@
-Create this portfolio to work with React, NextJs, Typescript, Tailwind,  Docker and Kubernetes
-
 ## Getting Started
 
 Run container
